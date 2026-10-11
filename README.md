@@ -12,9 +12,11 @@ Download installers only from this repository's Releases page or the official Te
 
 This is intentionally a releases-only repository. Application source, private development history, internal test media, API keys, signing credentials, and customer files are not published here.
 
-## Independence
+## Compatible activities and independence
 
-TTG MotionGauge supports telemetry produced by DJI drones and other compatible devices. TTG MotionGauge is an independent product and is not affiliated with, sponsored by, or endorsed by DJI or MapTiler.
+Compatible telemetry may come from supported drone recordings, timestamped GPS tracks, and FIT activity files used for flight, driving, fitness, and outdoor video. Compatibility depends on the fields and timestamps present in each file; these examples do not imply support for every camera, logger, vehicle bus, watch, sensor, or manufacturer-specific field.
+
+TTG MotionGauge is an independent product and is not affiliated with, sponsored by, or endorsed by DJI, MapTiler, or the manufacturers of compatible telemetry devices.
 
 ## Optional support
 
